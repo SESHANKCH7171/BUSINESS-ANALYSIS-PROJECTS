@@ -1,0 +1,3 @@
+## 🧠 Sales Prediction using Linear Regression
+
+This project explores the relationship between advertising budget and product sales using a simple linear regression model in Python. Focused on TV ad spend as the primary feature, the model achieved an R² score of ~0.81, indicating strong predictive power. Key insight: every additional ₹1 spent on TV advertising increases expected sales by approximately 0.054 units. The notebook includes full data preprocessing, EDA, model training using `statsmodels.OLS`, evaluation, and visual interpretation.
