@@ -19,3 +19,5 @@ Designed the Sales Data Dashboard with the following requirements:
   6) Total No. of Orders
   7) Showing Sales/ Profit/ Discount/Net sales all the remaining fields for each order that vcould be filtered using Visual filters
   8) Sales across different cities
+
+#Insurance Data Analysis - PowerBI Dashboard :-
